@@ -1365,3 +1365,6 @@ LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
 [2026.09.18-16.53.11:368][741]LogEOSShared: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
 [2026.09.18-16.53.11:369][741]LogNFORDenoise: NFORDenoise function shutting down
 [2026.09.18-16.53.11:371][741]LogPakFile: Destroying PakPlatformFile
+[2026.09.18-16.53.24:135][741]LogD3D12RHI: ~FD3D12DynamicRHI
+[2026.09.18-16.53.24:315][741]LogExit: Exiting.
+[2026.09.18-16.53.24:352][741]Log file closed, 09/18/26 12:53:24

@@ -1,2 +1,3 @@
-2026/09/18-12:46:34.739 4cac Creating DB C:\Users\jayle\OneDrive\Desktop\Workshop 1\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata since it was missing.
-2026/09/18-12:46:34.773 4cac Reusing MANIFEST C:\Users\jayle\OneDrive\Desktop\Workshop 1\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/09/18-12:51:51.112 3a90 Reusing MANIFEST C:\Users\jayle\OneDrive\Desktop\Workshop 1\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001
+2026/09/18-12:51:51.112 3a90 Recovering log #3
+2026/09/18-12:51:51.113 3a90 Reusing old log C:\Users\jayle\OneDrive\Desktop\Workshop 1\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/000003.log 

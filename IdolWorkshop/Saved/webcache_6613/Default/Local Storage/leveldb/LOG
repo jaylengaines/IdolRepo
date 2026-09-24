@@ -1,2 +1,8 @@
+<<<<<<< Updated upstream
 2026/09/24-15:26:56.192 3768 Creating DB C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
 2026/09/24-15:26:56.203 3768 Reusing MANIFEST C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+=======
+2026/09/24-15:32:46.376 5474 Reusing MANIFEST C:\Users\jayle\OneDrive\Desktop\Workshop 1\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/09/24-15:32:46.400 5474 Recovering log #3
+2026/09/24-15:32:46.485 5474 Reusing old log C:\Users\jayle\OneDrive\Desktop\Workshop 1\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\Local Storage\leveldb/000003.log 
+>>>>>>> Stashed changes

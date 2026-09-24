@@ -1,16 +1,70 @@
-[15960:15508:0924/154240.484:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[15960:31332:0924/154240.575:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[15960:15508:0924/154240.593:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[15960:11188:0924/154244.877:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15960:11188:0924/154244.882:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15960:11188:0924/154244.885:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15960:11188:0924/154244.887:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15960:1988:0924/154245.340:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15960:1988:0924/154245.342:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[15960:15508:0924/154245.725:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[22468:20132:0924/154246.728:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-E0888292E169B530AA0443EAB85791E3 will be ignored
-[15960:15508:0924/154250.759:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15960:15508:0924/154301.000:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15960:15508:0924/154330.543:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15960:15508:0924/154335.543:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
-[15960:15508:0924/154357.853:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[41724:4292:0924/154601.615:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[41724:4292:0924/154601.670:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[41724:4292:0924/154601.868:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[41724:21304:0924/154601.959:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[34652:11848:0924/154611.869:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
+[40376:12316:0924/154613.190:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[40376:24492:0924/154613.228:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[40376:24492:0924/154613.229:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[40376:24492:0924/154613.230:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34652:19672:0924/154613.317:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[34652:19672:0924/154613.321:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[34652:19672:0924/154613.340:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[34652:19672:0924/154613.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34652:19672:0924/154613.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34652:19672:0924/154613.381:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[40376:24492:0924/154613.381:WARNING:stun_port.cc(442)] Port[1050c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40376:24492:0924/154613.381:WARNING:stun_port.cc(442)] Port[1051c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40376:24492:0924/154613.381:WARNING:stun_port.cc(442)] Port[1052400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34652:19672:0924/154613.382:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34652:19672:0924/154613.382:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34652:19672:0924/154613.382:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34652:19672:0924/154613.382:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[34652:19672:0924/154613.382:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[34652:19672:0924/154613.382:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[40376:24492:0924/154613.382:WARNING:stun_port.cc(442)] Port[1050c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40376:24492:0924/154613.382:WARNING:stun_port.cc(442)] Port[1051c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40376:24492:0924/154613.382:WARNING:stun_port.cc(442)] Port[1052400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40376:24492:0924/154613.382:WARNING:stun_port.cc(442)] Port[1050c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40376:24492:0924/154613.383:WARNING:stun_port.cc(442)] Port[1051c00:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[40376:24492:0924/154613.383:WARNING:stun_port.cc(442)] Port[1052400:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[41724:24828:0924/154613.586:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,5]
+[41724:4292:0924/154613.645:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[41724:4292:0924/154613.645:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[41724:4292:0924/154613.645:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[41724:4292:0924/154613.645:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[41724:24828:0924/154613.718:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
+[34652:19672:0924/154614.881:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[34652:19672:0924/154614.918:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[41724:24828:0924/154615.472:ERROR:cast_crl.cc(443)] CRL - Verification failed.
+[34652:19672:0924/154623.587:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[34652:19672:0924/154625.963:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[34652:19672:0924/154635.930:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[34652:19672:0924/154637.772:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[19360:12264:0924/154641.048:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19360:30272:0924/154641.108:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19360:30272:0924/154641.108:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19360:30272:0924/154641.109:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[34652:19672:0924/154641.199:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[34652:19672:0924/154641.199:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[34652:19672:0924/154641.200:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34652:19672:0924/154641.200:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34652:19672:0924/154641.200:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[34652:19672:0924/154641.200:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34652:19672:0924/154641.200:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[34652:19672:0924/154641.200:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[19360:30272:0924/154641.201:WARNING:stun_port.cc(442)] Port[1288000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19360:30272:0924/154641.201:WARNING:stun_port.cc(442)] Port[1288400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19360:30272:0924/154641.201:WARNING:stun_port.cc(442)] Port[1288c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19360:30272:0924/154641.201:WARNING:stun_port.cc(442)] Port[1288000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19360:30272:0924/154641.201:WARNING:stun_port.cc(442)] Port[1288400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19360:30272:0924/154641.201:WARNING:stun_port.cc(442)] Port[1288c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[34652:19672:0924/154641.214:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[34652:19672:0924/154641.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[34652:19672:0924/154641.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[34652:19672:0924/154641.216:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[19360:30272:0924/154641.216:WARNING:stun_port.cc(442)] Port[1288000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19360:30272:0924/154641.216:WARNING:stun_port.cc(442)] Port[1288400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19360:30272:0924/154641.216:WARNING:stun_port.cc(442)] Port[1288c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19360:12264:0924/154642.582:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[41724:4292:0924/154727.330:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.

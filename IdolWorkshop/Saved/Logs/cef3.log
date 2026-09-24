@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 [41724:4292:0924/154601.615:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [41724:4292:0924/154601.670:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
 [41724:4292:0924/154601.868:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
@@ -68,3 +69,17 @@
 [19360:30272:0924/154641.216:WARNING:stun_port.cc(442)] Port[1288c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
 [19360:12264:0924/154642.582:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
 [41724:4292:0924/154727.330:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+=======
+[17460:15840:0924/154740.086:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17460:31568:0924/154740.176:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17460:15840:0924/154740.201:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17460:33056:0924/154744.049:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17460:33056:0924/154744.053:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17460:33056:0924/154744.055:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17460:33056:0924/154744.059:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17460:33056:0924/154744.533:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17460:33056:0924/154744.537:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[29240:25064:0924/154745.994:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4CA05F8988BF93B06EADCB05B63BBD56 will be ignored
+[17460:15840:0924/154812.068:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17460:15840:0924/154941.454:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes

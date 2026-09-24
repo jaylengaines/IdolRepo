@@ -1,4 +1,5 @@
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 [12128:35028:0924/152656.109:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
 [12128:35028:0924/152656.119:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
 [12128:11292:0924/152656.134:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
@@ -29,4 +30,20 @@
 [21436:18984:0924/153308.788:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
 [21436:18984:0924/153316.152:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
 [12412:16220:0924/153350.524:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+>>>>>>> Stashed changes
+=======
+[17120:15104:0924/152741.958:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17120:15104:0924/152742.030:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[17120:26356:0924/152742.091:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[17120:15104:0924/152742.112:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17120:5224:0924/152755.077:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17120:5224:0924/152755.082:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17120:5224:0924/152755.085:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17120:5224:0924/152755.090:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\ilord\Downloads\School_related\Workshop\LeverLight\IDOL 2026\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17120:15104:0924/152755.442:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17120:5224:0924/152755.599:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17120:5224:0924/152755.611:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[33696:22664:0924/152756.252:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-98B6B63FA6CCFFABAA7D24A38D864816 will be ignored
+[17120:15104:0924/152800.373:WARNING:page_discarding_helper.cc(138)] Discarding multiple pages with target (kb): 0
+[17120:15104:0924/153310.052:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
 >>>>>>> Stashed changes

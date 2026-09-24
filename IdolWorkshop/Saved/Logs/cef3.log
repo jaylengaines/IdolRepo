@@ -1,77 +1,17 @@
-[5152:23528:0924/152213.478:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[5152:23528:0924/152213.651:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[5152:36348:0924/152213.653:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
-[4396:25760:0924/152220.939:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[4396:25760:0924/152220.940:ERROR:backend_impl.cc(989)] Critical error found -8
-[4396:25760:0924/152220.977:WARNING:storage_block-inl.h(138)] Failed data load.
-[4396:25760:0924/152220.978:WARNING:storage_block-inl.h(138)] Failed data load.
-[4396:25760:0924/152220.982:WARNING:storage_block-inl.h(138)] Failed data load.
-[4396:25760:0924/152220.984:ERROR:entry_impl.cc(955)] Failed to save user data
-[4396:25760:0924/152220.984:ERROR:entry_impl.cc(955)] Failed to save user data
-[37128:40800:0924/152222.089:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4041495112D150AE33BA91429BCC5515 will be ignored
-[37488:40192:0924/152224.014:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[37488:38116:0924/152224.084:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[37488:38116:0924/152224.084:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[37488:38116:0924/152224.086:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[4396:15840:0924/152224.634:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[4396:15840:0924/152224.644:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[4396:15840:0924/152224.667:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[4396:15840:0924/152224.705:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[4396:15840:0924/152224.709:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[4396:15840:0924/152224.709:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[4396:15840:0924/152224.709:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[4396:15840:0924/152224.749:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[4396:15840:0924/152224.749:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[4396:15840:0924/152224.749:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[4396:15840:0924/152224.787:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[4396:15840:0924/152224.849:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[4396:15840:0924/152224.849:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[4396:15840:0924/152224.849:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[37488:38116:0924/152224.950:WARNING:stun_port.cc(442)] Port[108bc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37488:38116:0924/152224.950:WARNING:stun_port.cc(442)] Port[149c800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37488:38116:0924/152224.950:WARNING:stun_port.cc(442)] Port[149d000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37488:38116:0924/152224.951:WARNING:stun_port.cc(442)] Port[108bc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37488:38116:0924/152224.951:WARNING:stun_port.cc(442)] Port[149c800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37488:38116:0924/152224.951:WARNING:stun_port.cc(442)] Port[149d000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37488:38116:0924/152224.951:WARNING:stun_port.cc(442)] Port[108bc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37488:38116:0924/152224.951:WARNING:stun_port.cc(442)] Port[149c800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37488:38116:0924/152224.951:WARNING:stun_port.cc(442)] Port[149d000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[5152:32336:0924/152225.093:ERROR:cast_crl.cc(443)] CRL - Verification failed.
-[4396:15840:0924/152225.346:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[5152:32336:0924/152225.599:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
-[5152:23528:0924/152226.240:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[5152:23528:0924/152226.240:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[5152:23528:0924/152226.241:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[5152:23528:0924/152226.241:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[5152:32336:0924/152229.586:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,5]
-[37492:31392:0924/152230.906:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[37492:33108:0924/152230.974:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[37492:33108:0924/152230.975:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[37492:33108:0924/152230.976:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[4396:15840:0924/152231.307:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[4396:15840:0924/152231.307:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[4396:15840:0924/152231.308:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[4396:15840:0924/152231.308:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[4396:15840:0924/152231.308:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
-[4396:15840:0924/152231.308:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[4396:15840:0924/152231.308:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[4396:15840:0924/152231.308:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
-[37492:33108:0924/152231.308:WARNING:stun_port.cc(442)] Port[1284c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37492:33108:0924/152231.308:WARNING:stun_port.cc(442)] Port[1285400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[4396:15840:0924/152231.308:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
-[37492:33108:0924/152231.308:WARNING:stun_port.cc(442)] Port[1285c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37492:33108:0924/152231.308:WARNING:stun_port.cc(442)] Port[1284c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37492:33108:0924/152231.308:WARNING:stun_port.cc(442)] Port[1285400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37492:33108:0924/152231.308:WARNING:stun_port.cc(442)] Port[1285c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[4396:15840:0924/152231.309:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[4396:15840:0924/152231.309:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[4396:15840:0924/152231.309:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
-[37492:33108:0924/152231.309:WARNING:stun_port.cc(442)] Port[1284c00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37492:33108:0924/152231.309:WARNING:stun_port.cc(442)] Port[1285400:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[37492:33108:0924/152231.309:WARNING:stun_port.cc(442)] Port[1285c00:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
-[4396:15840:0924/152234.256:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[37492:31392:0924/152234.819:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
-[4396:15840:0924/152237.226:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[4396:15840:0924/152242.837:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[4396:15840:0924/152247.399:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[5152:23528:0924/152344.567:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[12128:35028:0924/152656.109:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[12128:35028:0924/152656.119:ERROR:os_crypt_win.cc(100)] Failed to decrypt: Key not valid for use in specified state. (0x8009000B)
+[12128:11292:0924/152656.134:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[12128:35028:0924/152656.142:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[12128:11292:0924/152657.946:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12128:11292:0924/152657.948:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12128:11292:0924/152657.950:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12128:11292:0924/152657.952:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\Michael\OneDrive\Documents\GitHub\IdolRepo\IdolWorkshop\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12128:33924:0924/152658.178:WARNING:value_store_frontend.cc(47)] Reading ahfgeienlihckogmohjhadlkjgocpleb.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[12128:33924:0924/152658.182:WARNING:value_store_frontend.cc(47)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[10056:36872:0924/152658.664:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2C37FE9CEFB86CBAF3A71CEB4A167674 will be ignored
+[12128:35028:0924/152701.742:ERROR:device_event_log_impl.cc(196)] [15:27:01.734] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[7244:36176:0924/152702.237:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7244:36176:0924/152702.274:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[7244:36176:0924/152714.918:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[7244:36176:0924/152725.154:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[12128:35028:0924/153026.762:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
